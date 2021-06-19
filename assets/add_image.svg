@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24" width="24px" height="24px">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="24" height="24" style="fill:rgb(0%,0%,0%);fill-opacity:0.35;stroke:none;"/>
+  </g>
+</mask>
+<image id="image29269573" width="24" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAAzElEQVRIie2VOwrCQBBA34hYbzr1AoKXsQoWonaBCLZqZaGVN0jqNGLO4xVSiMXWQhirSBLEwqzY5FXzgXn7g4WWfyNF4Pt+z/O8IzAHBl/Oy1Q1sdbu0zR9AHSLjjHmAGyarBYYisjWGAOwA+gUHRFZNBz+QkSWRdwp1b89lnf03wl+QitoBa2gKshcDg7DcFQRqGriUpDn+aQisNbuVfWEu53MoPQfNCEIgiswLtdE5BLH8dTVJae1/C4ia3D3is61fBVF0c3R7M88AU6vLI0W2ikfAAAAAElFTkSuQmCC"/>
+</defs>
+<g id="surface29269569">
+<use xlink:href="#image29269573" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40.000001%,40.000001%,40.000001%);fill-opacity:1;" d="M 19 8 C 19 9.105469 18.105469 10 17 10 C 15.894531 10 15 9.105469 15 8 C 15 6.894531 15.894531 6 17 6 C 18.105469 6 19 6.894531 19 8 Z M 19 8 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40.000001%,40.000001%,40.000001%);fill-opacity:1;" d="M 14.117188 13.992188 C 14.078125 13.992188 14.042969 14 14 14 C 11.558594 14 10 9 8 9 C 6 9 4 13.363281 4 16 C 4 16.546875 4.449219 17 5 17 L 12.296875 17 C 12.640625 15.84375 13.277344 14.8125 14.117188 13.992188 Z M 14.117188 13.992188 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40.000001%,40.000001%,40.000001%);fill-opacity:1;" d="M 19 14 C 16.238281 14 14 16.238281 14 19 C 14 21.761719 16.238281 24 19 24 C 21.761719 24 24 21.761719 24 19 C 24 16.238281 21.761719 14 19 14 Z M 21.5 20 L 20 20 L 20 21.5 C 20 22.050781 19.550781 22.5 19 22.5 C 18.449219 22.5 18 22.050781 18 21.5 L 18 20 L 16.5 20 C 15.949219 20 15.5 19.550781 15.5 19 C 15.5 18.449219 15.949219 18 16.5 18 L 18 18 L 18 16.5 C 18 15.949219 18.449219 15.5 19 15.5 C 19.550781 15.5 20 15.949219 20 16.5 L 20 18 L 21.5 18 C 22.050781 18 22.5 18.449219 22.5 19 C 22.5 19.550781 22.050781 20 21.5 20 Z M 21.5 20 "/>
+</g>
+</svg>
